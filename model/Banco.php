@@ -1,10 +1,5 @@
 <?php
-	/*	
-	*	AUTOR	:	Edimilson Sousa Quelipe
-	*	E-MAIL	:	quelipe_@hotmail.com
-	*	SITE	:	www.quelipe.com.br
-	*	DATA	:	23/03/2011
-	*/
+
 
 	class Banco {
 		private $sql;
